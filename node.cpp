@@ -3,10 +3,6 @@
 //
 // A node / position in the Open Street Map.
 // 
-// Prof. Joe Hummel
-// Northwestern University
-// CS 211
-// 
 
 #include "node.h"
 

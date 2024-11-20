@@ -3,10 +3,6 @@
 //
 // A building in the Open Street Map.
 // 
-// Prof. Joe Hummel
-// Northwestern University
-// CS 211
-// 
 
 #pragma once
 
